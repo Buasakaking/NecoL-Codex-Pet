@@ -1,0 +1,6 @@
+{
+  "id": "necol",
+  "displayName": "NecoL",
+  "description": "Portable NecoL with two-frame idle, snack-work, failure, and drag animations.",
+  "spritesheetPath": "spritesheet.webp"
+}
