@@ -46,7 +46,7 @@ powershell -NoProfile -ExecutionPolicy Bypass -File $script
 
 ## 仓库结构
 
-- [`CODEX_INSTALL.md`](CODEX_INSTALL.md)：给 Codex 代理读取的完整安装协议。
+- [`CODEX_INSTALL.md`](CODEX_INSTALL.md)：完整部署协议。
 - [`install.ps1`](install.ps1)：从 Latest Release 下载并安装的引导脚本。
 - `pet/`：图集、清单和原始动画素材。
 - `runtime/`：构建、补丁和验证脚本。
